@@ -1,8 +1,10 @@
 ---
 title: 基于koa-generator搭建通用服务端
 date: 2022-03-05 10:51:22
+updated: 2022-03-06 12:20
 categories: 实战
 tags: ['实战','koa']
+feature: true
 ---
 
 ## 安装koa-generator
@@ -872,6 +874,37 @@ module.exports = mongoose
    "prd": "pm2 start index.js",
    ```
 
+
+## 改造项目，实现跨域
+
+1. 修改根目录下`vercel.json`
+
+   ```json
+   {
+     "version": 2,
+     "builds": [
+       {
+         "src": "./index.js",
+         "use": "@vercel/node"
+       }
+     ],
+     "routes": [
+       {
+         "src": "/(.*)",
+         "dest": "/",
+         "headers": {
+           "Access-Control-Allow-Credentials": "true",
+           "Access-Control-Allow-Origin": "*",
+           "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
+           "Access-Control-Allow-Headers": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+         }
+       }
+     ]
+   }
+   ```
+
    
+
+​      
 
    
