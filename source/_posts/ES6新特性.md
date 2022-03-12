@@ -2,7 +2,7 @@
 title: ES6新特性
 date: 2022-03-12 18:48:14
 categories: 知识点
-tags: ['ES6'，'前瞻']
+tags: ['ES6','前瞻']
 ---
 
 ## let&const
