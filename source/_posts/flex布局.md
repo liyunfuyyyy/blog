@@ -10,19 +10,19 @@ tags: ['CSS','布局']
 
 #### `flex-direction: row`默认
 
-![image-20220212214719022](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214719022.png)
+![image-20220212214719022](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214719022.png)
 
 #### `flex-direction: row-reverse`
 
-![image-20220212214727609](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214727609.png)
+![image-20220212214727609](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214727609.png)
 
 #### `flex-direction: column`
 
-![image-20220212214732803](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214732803.png)
+![image-20220212214732803](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214732803.png)
 
 #### `flex-direction: column-reverse`
 
-![image-20220212214739075](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214739075.png)
+![image-20220212214739075](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214739075.png)
 
 
 
@@ -30,7 +30,7 @@ tags: ['CSS','布局']
 
 #### `flex-wrap: nowrap`默认
 
-![image-20220212214747177](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214747177.png)
+![image-20220212214747177](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214747177.png)
 
 #### `flex-wrap: wrap`
 
@@ -40,7 +40,7 @@ tags: ['CSS','布局']
 
 #### `flex-wrap: wrap-reverse`
 
-![image-20220212214752405](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214752405.png)
+![image-20220212214752405](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214752405.png)
 
 
 
@@ -48,7 +48,7 @@ tags: ['CSS','布局']
 
 #### `flex-flow: column wrap`
 
-![image-20220212214757643](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214757643.png)
+![image-20220212214757643](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214757643.png)
 
 ## 
 
@@ -60,23 +60,23 @@ tags: ['CSS','布局']
 
 #### `justify-content: flex-end`
 
-![image-20220212214802306](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214802306.png)
+![image-20220212214802306](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214802306.png)
 
 #### `justify-content: space-around` 平均分配  每个方块的margin-left+margin-right+width相等
 
-![image-20220212214807733](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214807733.png)
+![image-20220212214807733](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214807733.png)
 
 
 
 #### `justify-content: space-between` 两边没有空隙 中间空隙平均分配
 
-![image-20220212214812645](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214812645.png)
+![image-20220212214812645](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214812645.png)
 
 
 
 #### `justify-content: space-evenly`所有空隙平均分配
 
-![image-20220212214819677](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214819677.png)
+![image-20220212214819677](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214819677.png)
 
 
 
@@ -87,26 +87,26 @@ tags: ['CSS','布局']
 #### `align-content: stretch`默认  
 
 - 如果交叉轴上的宽度未设置则自动拉伸填满交叉轴
-- ![image-20220212214825843](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214825843.png)
+- ![image-20220212214825843](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214825843.png)
 
 - 若交叉轴上的宽度已经设置则效果和flex-start一样
-- ![image-20220212214830873](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214830873.png)
+- ![image-20220212214830873](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214830873.png)
 
 #### `align-content: flex-start`
 
-![image-20220212214835653](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214835653.png)
+![image-20220212214835653](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214835653.png)
 
 
 
 #### `align-content: flex-end`
 
-![image-20220212214840206](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214840206.png)
+![image-20220212214840206](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214840206.png)
 
 
 
 #### `align-content: center`
 
-![image-20220212214844914](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214844914.png)
+![image-20220212214844914](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214844914.png)
 
 #### 其他属性 `space-around``space-between``space-evenly`和主轴属性类似
 
@@ -118,19 +118,19 @@ tags: ['CSS','布局']
 
 #### `align-items: flex-start`
 
-![image-20220212214851355](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214851355.png)
+![image-20220212214851355](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214851355.png)
 
 #### `align-items: flex-end`
 
-![image-20220212214856140](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214856140.png)
+![image-20220212214856140](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214856140.png)
 
 #### `align-items: center`
 
-![image-20220212214900901](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214900901.png)
+![image-20220212214900901](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214900901.png)
 
 #### `align-items: baseline` 内容以小写x为基线对齐
 
-![image-20220212214905631](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214905631.png)
+![image-20220212214905631](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214905631.png)
 
 
 
@@ -138,33 +138,33 @@ tags: ['CSS','布局']
 
 #### 内联上下左右居中
 
-![image-20220212214909804](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214909804.png)
+![image-20220212214909804](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214909804.png)
 
 #### 块级上下左右居中
 
-![image-20220212214915118](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214915118.png)
+![image-20220212214915118](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214915118.png)
 
 
 
 ### 不定项居中布局
 
-![image-20220212214919862](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214919862.png)
+![image-20220212214919862](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214919862.png)
 
 
 
 ### 均分列布局
 
-![image-20220212214924984](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214924984.png)
+![image-20220212214924984](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214924984.png)
 
 ### 子项分组布局
 
 #### 复杂模式 使用div嵌套
 
-![image-20220212214930509](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214930509.png)
+![image-20220212214930509](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214930509.png)
 
 #### 简单方式 `margin-right: auto`
 
-![image-20220212214936331](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214936331.png)
+![image-20220212214936331](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214936331.png)
 
 ## flex子项属性
 
@@ -179,9 +179,9 @@ tags: ['CSS','布局']
 
 - 比例值为0.5，占剩余空间的一半
 
-![image-20220212214944988](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214944988.png)
+![image-20220212214944988](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214944988.png)
 
-![image-20220212214950098](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214950098.png)
+![image-20220212214950098](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214950098.png)
 
 
 
@@ -189,15 +189,15 @@ tags: ['CSS','布局']
 
 - 只有一个有flex-grow时
 
-![image-20220212214954991](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214954991.png)
+![image-20220212214954991](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214954991.png)
 
 - 两个都有flex-grow时
 
-![image-20220212214959906](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212214959906.png)
+![image-20220212214959906](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212214959906.png)
 
 - 当多个元素加起来小于1时，还有剩余空间
 
-![image-20220212215004740](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215004740.png)
+![image-20220212215004740](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215004740.png)
 
 
 
@@ -205,7 +205,7 @@ tags: ['CSS','布局']
 
 - 默认值为1，溢出部分完全收缩，小数按比例收缩
 
-![image-20220212215009431](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215009431.png)
+![image-20220212215009431](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215009431.png)
 
 #### 默认情况当有两个及以上需要收缩时
 
@@ -219,7 +219,7 @@ tags: ['CSS','布局']
 
 - `box2`收缩后所占尺寸：300-3/5*(200+300-400)=240
 
-![image-20220212215014237](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215014237.png)
+![image-20220212215014237](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215014237.png)
 
 #### 不同比例收缩时
 
@@ -232,7 +232,7 @@ tags: ['CSS','布局']
 - `box1`收缩后所占尺寸：200-4/7*(200+300-400)=142
 - `box2`收缩后所占尺寸：300-3/7*(200+300-400)=257
 
-![image-20220212215019585](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215019585.png)
+![image-20220212215019585](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215019585.png)
 
 ### 指定flex元素在主轴上的初始大小`flex-basis`
 
@@ -241,15 +241,15 @@ tags: ['CSS','布局']
 
 - **可选值**：0% auto 200px 100%  0  
 
-![image-20220212215024413](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215024413.png)
+![image-20220212215024413](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215024413.png)
 
 #### `flex-basis: auto`默认值
 
-![image-20220212215029405](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215029405.png)
+![image-20220212215029405](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215029405.png)
 
 #### `flex-basis: 0`表示占据最小宽度，会竖起来
 
-![image-20220212215034262](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215034262.png)
+![image-20220212215034262](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215034262.png)
 
 
 
@@ -257,15 +257,15 @@ tags: ['CSS','布局']
 
 #### flex: 1
 
-![image-20220212215039444](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215039444.png)
+![image-20220212215039444](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215039444.png)
 
 #### flex: 0
 
-![image-20220212215044185](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215044185.png)
+![image-20220212215044185](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215044185.png)
 
 #### flex: auto
 
-![image-20220212215048190](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215048190.png)
+![image-20220212215048190](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215048190.png)
 
 
 
@@ -276,36 +276,36 @@ tags: ['CSS','布局']
 
 - `order: 1`向后拍
 
-![image-20220212215052972](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215052972.png)
+![image-20220212215052972](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215052972.png)
 
 
 
 ### 控制单独某一个元素交叉轴的布局`align-self`
 
-![image-20220212215057472](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215057472.png)
+![image-20220212215057472](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215057472.png)
 
 
 
 ## 等高布局 内容填充两边也等高
 
-![image-20220212215102252](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215102252.png)
+![image-20220212215102252](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215102252.png)
 
 
 
 ## 两列或三列布局  两边固定宽度 中间自适应
 
-![image-20220212215107507](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215107507.png)
+![image-20220212215107507](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215107507.png)
 
 
 
 ## Sticky Footer布局 内容空页脚在最底部 内容满也在最底部
 
-![image-20220212215116299](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215116299.png)
+![image-20220212215116299](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215116299.png)
 
 
 
 ## 溢出项布局
 
-![image-20220212215123298](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215123298.png)
+![image-20220212215123298](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215123298.png)
 
-![image-20220212215128574](https://gitee.com/LUNIONT/img-url/raw/master/image-20220212215128574.png)
+![image-20220212215128574](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220212215128574.png)

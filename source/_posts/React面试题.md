@@ -25,7 +25,7 @@ tags: ['React','Redux','Router']
 
 #### 6. setState是同步还是异步（场景题）
 
-![image-20220310194203671](https://gitee.com/LUNIONT/img-url/raw/master/image-20220310194203671.png)
+![image-20220310194203671](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220310194203671.png)
 
 - React默认父组件有更新，子组件无条件更新
 
@@ -34,9 +34,9 @@ tags: ['React','Redux','Router']
 - 需要使用`redux-thunk` 中间件
 - 异步返回一个函数，如让网络请求等
 
-![image-20220310211346082](https://gitee.com/LUNIONT/img-url/raw/master/image-20220310211346082.png)![image-20220310211427340](https://gitee.com/LUNIONT/img-url/raw/master/image-20220310211427340.png)
+![image-20220310211346082](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220310211346082.png)![image-20220310211427340](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220310211427340.png)
 
-![image-20220310212120841](https://gitee.com/LUNIONT/img-url/raw/master/image-20220310212120841.png)
+![image-20220310212120841](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220310212120841.png)
 
 - view触发一个新的action
 - action到dispatch中

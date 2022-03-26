@@ -239,4 +239,4 @@ function render(element, container, callback) {
 
 ## 总结
 
-![image-20220227181403603](https://gitee.com/LUNIONT/img-url/raw/master/image-20220227181403603.png)
+![image-20220227181403603](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/image-20220227181403603.png)

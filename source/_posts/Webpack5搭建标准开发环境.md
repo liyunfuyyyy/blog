@@ -315,7 +315,7 @@ output: {
 },
 ```
 
-![image-20220101101422744](https://gitee.com/LUNIONT/img-url/raw/master/202201011014825.png)
+![image-20220101101422744](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201011014825.png)
 
 [CleanWebpackPlugin does not clean in Webpack 5 - fsou (nilmap.com)](https://stackoverflow.nilmap.com/question?dest_url=https://stackoverflow.com/questions/64617228/cleanwebpackplugin-does-not-clean-in-webpack-5)
 
@@ -346,7 +346,7 @@ new CopyWebpackPlugin(
 )
 ```
 
-![image-20220101102511174](https://gitee.com/LUNIONT/img-url/raw/master/202201011025251.png)
+![image-20220101102511174](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201011025251.png)
 
 >错误信息：[webpack-cli] Invalid options object. Copy Plugin has been initialized using an options object that does not match the API schema.
 

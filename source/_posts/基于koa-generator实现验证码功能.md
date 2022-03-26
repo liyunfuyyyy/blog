@@ -192,4 +192,4 @@ export default {
 </script>
 ```
 
-![image-20220111225233945](https://gitee.com/LUNIONT/img-url/raw/master/202201112252049.png)
+![image-20220111225233945](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201112252049.png)

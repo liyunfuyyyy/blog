@@ -9,7 +9,7 @@ tags: ['MongoDB','数据库','Mongoose']
 
 
 
-![image-20220107133258717](https://gitee.com/LUNIONT/img-url/raw/master/202201071332826.png)
+![image-20220107133258717](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201071332826.png)
 
 ### Docker中MongoDB数据的备份与恢复
 
@@ -25,7 +25,7 @@ docker exec -it some-mongo mongodump -h localhost -u root -p example -o /temp/te
 
 - 存储`文档`的`非关系型`数据库
 
-![image-20220102093831863](https://gitee.com/LUNIONT/img-url/raw/master/202201020938923.png)
+![image-20220102093831863](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201020938923.png)
 
 - 可以将多个不同的内容添加到一个集合里面，如果想要添加字段，直接添加，不会报错
 
@@ -82,7 +82,7 @@ db.accounts.insertMany(
 )
 ```
 
-![image-20220102095450876](https://gitee.com/LUNIONT/img-url/raw/master/202201020954929.png)
+![image-20220102095450876](https://raw.githubusercontent.com/liyunfuyyyy/img-url/master/202201020954929.png)
 
 #### 创建单个或多个文档
 
